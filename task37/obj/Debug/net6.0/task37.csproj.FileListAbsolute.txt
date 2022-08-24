@@ -1,0 +1,15 @@
+E:\Разработчик ГБ\C#\Seminar_5\task37\bin\Debug\net6.0\task37.exe
+E:\Разработчик ГБ\C#\Seminar_5\task37\bin\Debug\net6.0\task37.deps.json
+E:\Разработчик ГБ\C#\Seminar_5\task37\bin\Debug\net6.0\task37.runtimeconfig.json
+E:\Разработчик ГБ\C#\Seminar_5\task37\bin\Debug\net6.0\task37.dll
+E:\Разработчик ГБ\C#\Seminar_5\task37\bin\Debug\net6.0\task37.pdb
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\task37.csproj.AssemblyReference.cache
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\task37.GeneratedMSBuildEditorConfig.editorconfig
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\task37.AssemblyInfoInputs.cache
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\task37.AssemblyInfo.cs
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\task37.csproj.CoreCompileInputs.cache
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\task37.dll
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\refint\task37.dll
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\task37.pdb
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\task37.genruntimeconfig.cache
+E:\Разработчик ГБ\C#\Seminar_5\task37\obj\Debug\net6.0\ref\task37.dll
